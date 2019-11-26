@@ -1,0 +1,106 @@
+body {
+  font-family: 'Didact Gothic', sans-serif;
+
+  margin: 0;
+  background-color: #fdfdfd;
+}
+
+.head{
+  margin: 0;
+  background-color: #fdfdfd;
+}
+
+.savanh2{
+  margin-top: 0px;
+}
+.audio-div {
+  position: absolute;
+  right: 10px;
+  margin-right: 10px;
+  width: 300px;
+  top: 0px;
+
+  position: fixed;
+
+}
+.fixaudio{
+height: 2rem;
+  position: fixed;
+}
+
+body {
+  color: #1a3e59;
+  ;
+}
+.g1 {position: absolute;
+left: 100px;
+top: 70px;
+height: 9.3rem;
+}
+.g2 {position: absolute;
+right:  100px;
+top: 70px;
+height: 9.3rem;
+}
+.moto {position: relative;
+bottom: 50px;}
+.m1 {position: absolute;
+left: 50px;
+bottom: 5px;
+height: 12rem;
+}
+.m2 {position: absolute;
+right:  50px;
+bottom: 5px;
+height: 12rem;
+}
+p {
+  font-style: italic;
+}
+
+h1 {
+  color: #470938;
+}
+
+h3 {
+  color: #470938;
+}
+
+hr {
+  width: 10%;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  height: 4px;
+}
+
+#first {
+  height: 150px;
+}
+
+table {
+  width: 50%;
+}
+
+th {
+  height: 50px;
+}
+
+ul {
+  width: 70%;
+}
+
+ol {
+  width: 20%;
+}
+#iAm {
+  margin: 0px;
+}
+#youtube:hover {background-size: 100px;
+  background-color: #c299fc;}
+  #myphoto:hover {background-size: 100px;
+    background-color: #c299fc;}
+#youtubepng:hover {background-size: 100px;
+  background-color: #c299fc;}
+  #resume:hover {
+    background-color: #c299fc;}

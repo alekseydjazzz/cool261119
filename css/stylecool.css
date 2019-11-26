@@ -1,0 +1,108 @@
+h1{color: #66BFBF;
+  font-size: 3.1rem;
+}
+
+.head {margin-top: 0px;
+}
+h2{
+  color: #66BFBF;
+
+}
+
+#middlephoto {
+  width:  100%;
+}
+#hello{
+margin-top: 0px;
+  position: absolute;
+right: 50px;
+top: 10px;
+left: 150px;
+font-size: 2rem;
+width: 12.5rem;
+}
+.hello2{margin-top: 0px;
+  position: absolute;
+  top: 10px;
+right: 100px;
+}
+.middle-container{
+  margin: 0;
+}
+
+.profile{
+  position: relative;
+  height: 60rem;
+  background-image: url("petergof.jpg");
+  background-size: cover;
+}
+h1{
+  color: #4e0261;
+  font-family: 'Caveat', cursive;
+
+}
+h2{
+  color: #22632d;
+font-family: 'Marck Script', cursive;
+
+}
+h3{
+  font-family: 'Marck Script', cursive;
+
+}
+
+.about {
+
+  width: 30.5rem;
+  position: absolute;
+top: 51.2rem;
+left: 3rem;
+
+}
+.about1{margin: 0px 0px 0px 0px;
+
+}
+
+.skills{position: relative;
+  height: auto;
+  margin: 0;
+  background-color: #e0e8b0;
+
+}
+#myskills1{position: relative;
+  top: 2rem;
+
+  margin: 0;
+}
+.painting {
+  position: absolute;
+  top: 3rem;
+  right:  5rem;
+  height: 25rem;
+}
+.sax{
+  height: 13rem;
+}
+.skillspaiting{
+  position: absolute;
+  left: 5rem;
+  top: 10rem;
+  font-size: 1.2rem;
+}
+#draw{
+  position: absolute;
+  top: 3rem;
+  right: 20rem;
+  font-size: 2rem;
+}
+#forest1{
+  position: absolute;
+  top: 8rem;
+  right: 20rem;
+
+
+}
+img {
+
+  border-radius: 8px;
+}
